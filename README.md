@@ -1,6 +1,6 @@
 # The-Sound-of-Color
 
-<img src="soundofcolor.png" height=300>
+<img src="soundofcolor.png" height=600>
 
 The application was built to showcase my JavaScript skills through the concept of how sound and color are interpreted in our mind.
 
